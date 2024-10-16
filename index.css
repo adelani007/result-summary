@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+main{
+    display: flex;
+    justify-content: center;
+    height: 25rem;
+}
+.left{
+    background-color:  hsl(241, 81%, 54%);
+    border-radius: 4%;
+}
+.right{
+    flex: 1;
+}
+
